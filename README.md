@@ -7,12 +7,12 @@
 - Adam (Combination of Exponentially Weighted Average(Momentum)) optimizer and the Root Mean Square (RMSP) used as optimizer and loss function respectively.
 
 
-### Libraries
+## Libraries
 
-**Numpy**
+***Numpy***
 
-**Pandas**
+***Pandas***
 
-**Matplotlib**
+***Matplotlib***
 
-**Keras Libraries**
+***Keras Libraries***
